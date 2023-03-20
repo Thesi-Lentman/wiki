@@ -57,3 +57,7 @@ The guild responded to an attack on the City of Dow. They dispatched a couple wa
 ### Guild Outpost Attack
 
 A guild outpost sent a message that it was being attacked. A team was sent and encountered two Alchemically Enhanced soldiers slaughtering the Guild members at the outpost. During the encounter the team discovered that an invisible magic caster, Doc, was supervising the attack and taking notes. The two enhanced soldiers were defeated and Doc escaped through a Syndicate portal. The corpses of the soldiers were brought back to Guild Headquarters and Gaille was able to question them. We were able to learn that the Syndicate was testing an updated version of their alchemical super soldier serum that had been administered at a Rae Lake village lab.
+
+### Syndicate Base
+
+A group of several guild members were teleported to Carmel. In trying to find a way back home, a few members (Red Paw, Gaille, Teddy, Ulkhur, and IT) found a Syndicate operation at a tomb and followed them through the Syndicate escape portal. They were captured and used as humanoid guinea pigs for several potions that gave a variety of effects. Through their escape, the guild members found that kids were being recruited to the Syndicate and several members were stuck there out of fear. They were able to return to the guild thanks to the help of Zeradnyk and brought him back with them.  
